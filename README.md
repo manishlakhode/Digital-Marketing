@@ -41,6 +41,17 @@ online_ads_project/
 ├─ notebooks/
 │  └─ ads_performance_analysis.ipynb
 ├─ reports/
+```
+---
+📜 License
+
+This project is licensed under the MIT License.
+
+---
+👤 Author
+
+Manish Lakhode, Contact: For questions or contributions, please get in touch with manishlakhode9865@gmail.com
+
 └─ README.md
 ```
 
